@@ -1,0 +1,43 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+my portfolio
+[0] (912,60)<button aria-label='Toggle Menu' class='burger-btn' />
+	[1] (912,46)<span  />
+	[2] (912,60)<span  />
+	[3] (912,74)<span  />
+Contents
+SNS 카드뉴스 콘텐츠 디자인입니다.
+[4] (500,147)<div  />
+	[5] (137,161)<div >No. 01 />
+	[6] (858,161)<div >↗ />
+[7] (500,532)<div class='card card-web' />
+	[8] (229,352)<div >Web Design />
+		[9] (141,352)<div  />
+	[10] (500,425)<div >🌸 />
+	[11] (500,520)<h3 >Website
+Project />
+	[12] (500,605)<p >반응형 웹 디자인 및 개발 프로젝트입니다. />
+	[13] (500,690)<div  />
+		[14] (138,704)<div >No. 02 />
+		[15] (858,704)<div >↗ />
+[16] (226,895)<div >App Design />
+	[17] (141,895)<div  />
+🌷
+Web Design
+✕
+솝앤포우 브랜드 웹사이트
+사람과 반려동물의 민감한 피부를 위한 프리미엄 천연 수제비누 브랜드 솝앤포우 공식 웹사이트 제작
+방문하기 ↗
+성보박물관 사이트 리뉴얼
+성보박물관 공식 홈페이지 리뉴얼 디자인
+방문하기 ↗
+핀버디 반려어 케어 랜딩페이지
+AI 기반 반려어 케어 서비스 핀버디의 브랜드 홍보용 반응형 랜딩페이지
+방문하기 ↗
+솝앤포우 브랜드 소개 랜딩페이지
+천연 수제비누 브랜드 솝앤포우의 감성과 제품 컬렉션을 담은 브랜드 소개용 반응형 랜딩페이지
+방문하기 ↗
+
+</current_dom>

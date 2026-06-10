@@ -1,0 +1,19 @@
+# Task: Inspect portfolio landing page responsiveness
+
+## Checklist
+- [ ] List open browser pages and confirm URL is active
+- [ ] Inspect desktop layout (1200px width)
+    - [ ] Resize to 1200x800
+    - [ ] Take screenshot of main landing page
+    - [ ] Click a card (e.g., Website Project) to open modal
+    - [ ] Take screenshot of modal in desktop view
+    - [ ] Close modal
+- [ ] Inspect mobile layout (375px width)
+    - [ ] Resize to 375x800
+    - [ ] Take screenshot of main landing page
+    - [ ] Click a card to open modal
+    - [ ] Take screenshot of modal in mobile view
+- [ ] Document findings and visual anomalies
+
+## Findings
+(To be updated)

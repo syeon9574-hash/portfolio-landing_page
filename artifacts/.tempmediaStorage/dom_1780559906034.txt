@@ -1,0 +1,51 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+my portfolio
+[0] (759,55)<a href='#works'>Works />
+[1] (835,55)<a href='javascript:void(0)'>About />
+[2] (917,55)<a href='javascript:void(0)'>Contact />
+Portfolio
+Selected
+Works
+클릭하면 미리보기를 확인할 수 있어요 ✦
+[3] (265,632)<div class='card card-card' />
+	[4] (123,471)<div >Card News />
+		[5] (88,471)<div  />
+	[6] (265,534)<div >🌼 />
+	[7] (265,622)<h3 >Card
+Contents />
+	[8] (265,701)<p >SNS 카드뉴스 콘텐츠 디자인입니다. />
+	[9] (265,776)<div  />
+		[10] (86,788)<div >No. 01 />
+		[11] (442,788)<div >↗ />
+[12] (735,632)<div class='card card-web' />
+	[13] (595,471)<div >Web Design />
+		[14] (558,471)<div  />
+	[15] (735,534)<div >🌸 />
+	[16] (735,622)<h3 >Website
+Project />
+	[17] (735,701)<p >반응형 웹 디자인 및 개발 프로젝트입니다. />
+	[18] (735,776)<div  />
+		[19] (557,788)<div >No. 02 />
+		[20] (912,788)<div >↗ />
+[21] (124,979)<div >App Design />
+	[22] (88,979)<div  />
+About Me
+Web Design
+✕
+솝앤포우 브랜드 웹사이트
+사람과 반려동물의 민감한 피부를 위한 프리미엄 천연 수제비누 브랜드 솝앤포우 공식 웹사이트 제작
+방문하기 ↗
+성보박물관 사이트 리뉴얼
+성보박물관 공식 홈페이지 리뉴얼 디자인
+방문하기 ↗
+핀버디 반려어 케어 랜딩페이지
+AI 기반 반려어 케어 서비스 핀버디의 브랜드 홍보용 반응형 랜딩페이지
+방문하기 ↗
+솝앤포우 브랜드 소개 랜딩페이지
+천연 수제비누 브랜드 솝앤포우의 감성과 제품 컬렉션을 담은 브랜드 소개용 반응형 랜딩페이지
+방문하기 ↗
+
+</current_dom>

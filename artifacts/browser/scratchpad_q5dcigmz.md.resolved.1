@@ -1,0 +1,24 @@
+# Task: Inspect portfolio landing page responsiveness
+
+## Checklist
+- [x] List open browser pages and confirm URL is active
+- [ ] Inspect desktop layout (1200px width)
+    - [x] Resize to 1200x800
+    - [ ] Take screenshot of main landing page
+    - [ ] Click a card (e.g., Website Project) to open modal
+    - [ ] Take screenshot of modal in desktop view
+    - [ ] Close modal
+- [ ] Inspect mobile layout (375px width)
+    - [ ] Resize to 375x800
+    - [ ] Take screenshot of main landing page
+    - [ ] Click a card to open modal
+    - [ ] Take screenshot of modal in mobile view
+- [ ] Document findings and visual anomalies
+
+## Findings
+- Tried navigating to `http://localhost:3000/portfolio-landing.html` and `http://localhost:3000/portfolio-landing_page/portfolio-landing.html`.
+- Both URLs redirect/fallback to the main application on port 3000, which is "TONGDOSA / Seongbo Museum / The Art of Zen" React app.
+- Attempted to open local file via `file://` protocol, but access was blocked by the browser tool.
+- Verified that port 3001 and 8080 are not running.
+- TONGDOSA app is running on port 3000 instead of the portfolio landing page described in the user prompt (no cards like "Website Project" found so far).
+

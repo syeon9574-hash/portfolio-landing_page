@@ -1,0 +1,7 @@
+# Tasks - Responsive Design Implementation
+
+- [ ] Run local server to host the portfolio page
+- [ ] Design and implement mobile hamburger menu & navigation overlay
+- [ ] Refactor typography, spacing, and grid styles using media queries
+- [ ] Make modals and multi-project list layouts responsive
+- [ ] Verify visual and interactive correctness on desktop and mobile viewports

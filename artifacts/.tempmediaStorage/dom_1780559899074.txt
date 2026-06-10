@@ -1,0 +1,52 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+my portfolio
+Works
+About
+Contact
+Portfolio
+Selected
+Works
+클릭하면 미리보기를 확인할 수 있어요 ✦
+Card News
+🌼
+Card
+Contents
+SNS 카드뉴스 콘텐츠 디자인입니다.
+No. 01
+↗
+Web Design
+🌸
+Website
+Project
+반응형 웹 디자인 및 개발 프로젝트입니다.
+No. 02
+↗
+App Design
+About Me
+[0] (500,500)<div class='modal-backdrop active' id='modalBackdrop' />
+	[1] (779,235)<button class='modal-close' />
+	[2] (500,389)<a class='project-row' href='https://soap-paw.vercel.app/' />
+		[3] (437,389)<div  />
+			[4] (437,374)<h4  />
+			[5] (437,409)<p  />
+		[6] (730,389)<div  />
+	[7] (500,534)<a class='project-row' href='https://your-museum-url.com' />
+		[8] (313,534)<div  />
+			[9] (313,519)<h4  />
+			[10] (313,554)<p  />
+		[11] (730,534)<div  />
+	[12] (500,679)<a class='project-row' href='https://notefolio.net/syeon2016/460913' />
+		[13] (376,679)<div  />
+			[14] (376,664)<h4  />
+			[15] (376,699)<p  />
+		[16] (730,679)<div  />
+	[17] (500,824)<a class='project-row' href='https://notefolio.net/syeon2016/461234' />
+		[18] (426,824)<div  />
+			[19] (426,809)<h4  />
+			[20] (426,844)<p  />
+		[21] (730,824)<div  />
+
+</current_dom>
